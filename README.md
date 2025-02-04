@@ -1,4 +1,6 @@
 # Indeed-data-scraping-and-visualization
+![image](https://github.com/user-attachments/assets/6209e42c-da3e-4363-8404-8d719d1abdf2)
+[Tableau](https://public.tableau.com/app/profile/jing.hwa.tu/viz/IndeedDataAnalystScrapedJobs/Dashboard1?publish=yes).)
 
 This project scrapes job postings for **Data Analyst** positions in Australia from Indeed. It extracts key information from the search pages (such as job titles, locations, and URLs) and then uses the individual job URLs to scrape detailed job descriptions. The data is then cleaned and merged into a final CSV file containing the following columns:
 
